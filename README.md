@@ -11,4 +11,4 @@ FrontEnd Side
 2. In ui i can search the data based on company name or script code and CRUD it to table ( if react then use redux for state management or hooks)
 3. only use bootStrap no other libraries
 
-## you can create the pull request when ever you are done also upload and short video recorded of the ui
+## you can create the pull request when ever you are done also upload short video of the ui in PR description
